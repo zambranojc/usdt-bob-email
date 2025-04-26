@@ -16,7 +16,7 @@ import os
 def send_usdt_bob_email():
     # CONFIGURACIÓN DEL USUARIO
     EMAIL_USER = 'zambrano.jc.uy@gmail.com'                # <-- Cambia esto
-    EMAIL_PASSWORD = 'vfoy bmvn hxdw nlmm'               # <-- Cambia esto
+    EMAIL_PASSWORD = 'vfoybmvnhxdwnlmm'               # <-- Cambia esto
     EMAIL_SEND = 'zambrano.jc@gmail.com'   # <-- Cambia esto
     EMAIL_CC = 'gonzalo.gutierrez@tecnofarma.com.bo'                                  # <-- Opcional
     SUBJECT = 'Tipo de Cambio USDT/BOB - Diario'
