@@ -1,0 +1,4 @@
+cron:
+  - name: send-usdt-bob-email
+    schedule: "0 19 * * *"  # UTC → 16:00 en Paraguay
+    command: "python send_email.py"
